@@ -1,0 +1,7 @@
+main:
+  - title: "CTF"
+    url: /ctf/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /assets/resume/alan_souvannavong_resume.pdf
