@@ -1,8 +1,8 @@
 ---
 title: "Post: Notice"
 categories:
-tags:
-  - In-Progress Projects
+  - Example
+tag:
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.

@@ -2,7 +2,7 @@
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 categories:
-  - In-Progress CTF's
+  - Example
 tags:
 ---
 
