@@ -118,4 +118,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+footer_scripts:
+  - /assets/js/click_button_for_answer.js
 
