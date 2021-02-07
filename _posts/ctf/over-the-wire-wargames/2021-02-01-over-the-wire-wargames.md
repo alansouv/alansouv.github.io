@@ -18,8 +18,13 @@ I know posting spoilers/solutions is frowned upon so I have hidden every solutio
 
 <h2>Bandit: Absolute Beginners</h2>
 Note: Make sure you read the <i>[Note for beginners][note-for-beginners]</i> for some tips!<br>
-[Level 0]({% post_url over-the-wire-wargames/bandit/2021-02-01-level-0 %})
+[Level 0]({% post_url over-the-wire-wargames/bandit/2021-02-01-level-0 %})<br>
 [Level 0 -> Level 1]({% post_url over-the-wire-wargames/bandit/2021-02-02-level-0-level-1 %})
+[Level 1 -> Level 2]({% post_url over-the-wire-wargames/bandit/2021-02-04-level-1-level-2 %})
+[Level 2 -> Level 3]({% post_url over-the-wire-wargames/bandit/2021-02-04-level-2-level-3 %})<br>
+[Level 3 -> Level 4]({% post_url over-the-wire-wargames/bandit/2021-02-04-level-3-level-4 %})
+[Level 4 -> Level 5]({% post_url over-the-wire-wargames/bandit/2021-02-07-level-4-level-5 %})
+
 
 
 [over-the-wire]: https://overthewire.org/wargames/
