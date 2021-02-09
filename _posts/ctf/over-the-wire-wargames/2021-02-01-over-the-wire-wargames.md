@@ -24,6 +24,7 @@ Note: Make sure you read the <i>[Note for beginners][note-for-beginners]</i> for
 [Level 2 -> Level 3]({% post_url over-the-wire-wargames/bandit/2021-02-04-level-2-level-3 %})<br>
 [Level 3 -> Level 4]({% post_url over-the-wire-wargames/bandit/2021-02-04-level-3-level-4 %})
 [Level 4 -> Level 5]({% post_url over-the-wire-wargames/bandit/2021-02-07-level-4-level-5 %})
+[Level 5 -> Level 6]({% post_url over-the-wire-wargames/bandit/2021-02-08-level-5-level-6 %})<br>
 
 
 
