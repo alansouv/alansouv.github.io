@@ -3,5 +3,8 @@ main:
     url: /ctf/
   - title: "Projects"
     url: /projects/
+  - title: "Certificates"
+    url: /certificates/   
   - title: "Resume"
     url: /assets/resume/alan_souvannavong_resume.pdf
+    

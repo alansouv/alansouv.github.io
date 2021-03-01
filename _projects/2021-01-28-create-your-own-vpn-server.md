@@ -1,8 +1,5 @@
 ---
 title: "Create Your Own VPN Server"
-categories:
-tags:
-  - In-Progress Projects
 ---
 
 In this guide, I will show you how to create your own free (kind of) VPN server.

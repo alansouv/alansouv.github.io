@@ -1,7 +1,8 @@
 ---
 title: CTF
 permalink: /ctf/
-layout: categories
+layout: collection
+collection: ctf
 classes: wide
 ---
 
