@@ -1,4 +1,6 @@
 main:
+  - title: "Azure"
+    url: /azure/
   - title: "CTF"
     url: /ctf/
   - title: "Projects"
