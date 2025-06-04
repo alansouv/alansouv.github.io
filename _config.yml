@@ -113,6 +113,13 @@ defaults:
       share: true
   - scope:
       path: ""
+      type: azure
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
       type: ctf
     values:
       layout: single
@@ -141,6 +148,9 @@ tag_archive:
   path: /tags/
 collections:
   projects:
+    output: true
+    permalink: /:collection/:path/
+  azure:
     output: true
     permalink: /:collection/:path/
   ctf:
